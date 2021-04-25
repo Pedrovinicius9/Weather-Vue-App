@@ -1,4 +1,4 @@
-# vue-tempo
+# vue-weather
 
 ## Project setup
 ```
